@@ -1,0 +1,9 @@
+2024-11-01 21:59:57,721 Starting Wrapper Job
+2024-11-01 21:59:58,151 Processing Prakriti Survey Data
+2024-11-01 21:59:58,151 Calculating percentage for segments
+2024-11-01 21:59:58,184 Generating Unique Id
+2024-11-01 21:59:58,184 Generating Unique Id
+2024-11-01 21:59:58,185 Processing Vark Survey Data
+2024-11-01 21:59:58,185 Calculating Max values : [a,b,c,d]
+2024-11-01 21:59:58,227 Writing to output.xlsx
+2024-11-01 22:00:01,271 Job Completed. Please check output.xlsx
